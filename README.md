@@ -20,14 +20,20 @@ It includes all five module tasks along with the final project report.
 
 ---
 
-## 📂 Repository Contents
-- 📁 `task-1-presentation/` → Digital literacy infographic  
-- 📁 `task-2-portfolio/` → Profile screenshots  
-- 📁 `task-3-platforms/` → Coding challenge & Google Form  
-- 📁 `task-4-email-etiquette/` → Email drafts & checklist  
-- 📁 `task-5-cybercrime/` → Case study & prevention tips  
-- 📄 `Project_Report.docx` → Final project report  
+## 📂 Repository Structure
 
+```
+digital-literacy-project/
+│
+├── task-1-presentation/
+├── task-2-portfolio/
+├── task-3-platforms/
+├── task-4-email-etiquette/
+├── task-5-cybercrime/
+├── report/
+│
+└── README.md
+```
 ---
 
 ## 🧠 Key Learnings
