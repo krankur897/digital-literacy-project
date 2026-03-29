@@ -55,6 +55,15 @@ Through this project, I learned:
 
 ---
 
+## 🔗 Important Links
+
+- 📊 Digital Literacy Quiz (Google Form):  
+  https://docs.google.com/forms/d/e/1FAIpQLSdBnEG4wYvHGENBowld9gGOF4Pa5JcQAWWmn3XvjAGLmQa_dw/viewform?usp=publish-editor  
+
+- 💻 GitHub Repository:  
+  https://github.com/krankur897/digital-literacy-project.git
+
+  
 ## 🔗 Tools Used
 - GitHub  
 - LinkedIn  
