@@ -1,4 +1,4 @@
-# 🌐 Digital Literacy Portfolio (CSE0001)
+# 🌐 Digital Literacy Portfolio
 
 ## 📖 Overview
 This repository contains my **Digital Literacy Project**, created as part of the **CSE0001 course at VIT Bhopal University**.
@@ -79,7 +79,7 @@ I studied common cyber threats like phishing and online fraud and learned how to
 - 🌐 Digital portfolio development  
 - 💻 Hands-on coding practice  
 - 📝 Interactive Google Form quiz  
-- 🔐 Cyber safety awareness  
+- 🔐 Cyber safety awareness
 
 ---
 
