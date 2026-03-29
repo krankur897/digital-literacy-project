@@ -33,6 +33,8 @@ The main aim of this project was to develop a clear understanding of digital lit
 ---
 
 ## 📂 Repository Structure
+
+```
 digital-literacy-project/
 │
 ├── task-1-presentation/
@@ -43,6 +45,7 @@ digital-literacy-project/
 ├── report/
 │
 └── README.md
+```
 
 ---
 
